@@ -1,0 +1,9 @@
+pydantic-ai>=0.6.0
+autogen>=1.0.0
+openai>=1.0.0
+volcengine-python-sdk[ark]>=1.0.0
+redis>=5.0.0
+python-dotenv>=1.0.0
+httpx>=0.25.0
+logfire>=0.8.0
+devtools>=0.12.0
